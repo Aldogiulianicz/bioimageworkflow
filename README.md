@@ -39,7 +39,7 @@ L’intero workflow è containerizzato con Docker, garantendo riproducibilità e
 
 ## Struttura delle directory
 Nota: Tutto il workflow deve essere inserito in una cartella principale chiamata `progetto_tesi_github/`.  
-Le sottocartelle devono essere create sia sulla workstation che all’interno del container.
+Le sottocartelle devono essere create sulla workstation.
 
 ```plaintext
 progetto_tesi_github/
